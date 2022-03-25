@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pavneet/C-tuorials/properC++Setup/src/main.cpp
+iostream
+-
+math_func.hpp
+/home/pavneet/C-tuorials/properC++Setup/src/math_func.hpp
+
+/home/pavneet/C-tuorials/properC++Setup/src/math_func.cpp
+math_func.hpp
+/home/pavneet/C-tuorials/properC++Setup/src/math_func.hpp
+
+/home/pavneet/C-tuorials/properC++Setup/src/math_func.hpp
+

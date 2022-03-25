@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtest_testing_lib.a  CMakeFiles/test_testing_lib.dir/main.cpp.o CMakeFiles/test_testing_lib.dir/math_func.cpp.o
+/usr/bin/ranlib libtest_testing_lib.a
